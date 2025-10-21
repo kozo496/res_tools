@@ -1,6 +1,7 @@
 # project
 tests/
 data/
+.python-version
 
 # vscode
 .virtual_documents/
